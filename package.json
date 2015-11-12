@@ -1,0 +1,32 @@
+{
+  "name": "node-rss-discover",
+  "version": "0.1.0",
+  "description": "Discover and parse an RSS feed at a given URL if it exists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanmcgary/node-rss-discover.git"
+  },
+  "keywords": [
+    "rss",
+    "xml",
+    "atom",
+    "node"
+  ],
+  "author": "Sean McGary <sean@seanmcgary.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanmcgary/node-rss-discover/issues"
+  },
+  "homepage": "https://github.com/seanmcgary/node-rss-discover#readme",
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "jquery": "^2.1.4",
+    "jsdom": "^7.0.2",
+    "lodash": "^3.10.1",
+    "xml2js": "^0.4.15"
+  }
+}
