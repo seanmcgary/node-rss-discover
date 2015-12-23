@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+	<channel>
+		<title><![CDATA[Sean McGary]]></title>
+		<description><![CDATA[]]></description>
+		<link><![CDATA[http://seanmcgary.com]]></link>
+		<lastBuildDate><![CDATA[Wed, 16 Dec 2015 09:06:15 GMT]]></lastBuildDate>
+		<ttl><![CDATA[900]]></ttl>
+		<item>
+			<title><![CDATA[Deploying Node.JS applications with systemd]]></title>
+			<description><![CDATA[some test content]]></description>
+			<link><![CDATA[http://seanmcgary.com/posts/deploying-nodejs-applications-with-systemd]]></link>
+			<pubDate><![CDATA[Wed, 09 Dec 2015 18:03:52 GMT]]></pubDate>
+		</item>
+	</channel>
+</rss>

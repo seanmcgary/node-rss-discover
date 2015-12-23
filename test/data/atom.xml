@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <id>tag:blog.someone.com,2013:/posts</id>
+  <link rel="alternate" type="text/html" href="http://blog.someone.com"/>
+  <link rel="self" type="application/atom+xml" href="http://blog.someone.com/posts.atom"/>
+  <title>Atom author</title>
+  <updated>2015-12-21T21:31:39Z</updated>
+  <itunes:author>Atom author</itunes:author>
+  <entry>
+    <id>tag:blog.someone.com,2013:Post/926362</id>
+    <published>2015-11-02T21:26:17Z</published>
+    <updated>2015-12-19T15:03:25Z</updated>
+    <link rel="alternate" type="text/html" href="http://blog.someone.com/some-url"/>
+    <title>Atom title</title>
+    <summary><![CDATA[Atom test content]]></summary>
+    <content type="html"><![CDATA[Atom test content]]></content>
+    <author>
+      <name>Atom author</name>
+    </author>
+  </entry>
+</feed>

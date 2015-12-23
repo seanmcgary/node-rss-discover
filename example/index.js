@@ -4,10 +4,11 @@
 var RSSDiscover = require('../');
 var util = require('util');
 
-var URL = 'https://www.reddit.com/r/technology';
+var URL = 'http://venturebeat.com';
 RSSDiscover.findFeedAtUrl(URL)
-.then(RSSDiscover.crawlRssFeed)
+.then(RSSDiscover.crawlFeed)
 .then(function(feed){
+
 	console.log(util.inspect(feed, true, 8, true));
 })
 .catch(function(err){

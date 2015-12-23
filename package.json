@@ -30,5 +30,10 @@
     "lodash": "^3.10.1",
     "request": "^2.65.0",
     "xml2js": "^0.4.15"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "nock": "^3.6.0",
+    "sinon": "^1.17.2"
   }
 }
