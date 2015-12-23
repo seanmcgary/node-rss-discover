@@ -1,6 +1,6 @@
 {
   "name": "node-rss-discover",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Discover and parse an RSS feed at a given URL if it exists",
   "main": "index.js",
   "scripts": {
